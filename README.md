@@ -1,4 +1,4 @@
-# vscodeAsNoteBook
+# Visual Studio Code As NoteBook
 
 # Motivation
 * Be able to take notes quickly
