@@ -1,0 +1,67 @@
+{
+  "Add Task to schedule": {
+    "prefix": "task",
+    "body": ["<td rowspan=$1><input type=\"checkbox\" unchecked>$2</td>"],
+    "description": "it adds new task in schedule plan"
+  },
+  "Add diary conclusion": {
+    "prefix": "then",
+    "body": ["<td>➡️ $1</td>"],
+    "description": "it adds new task in schedule plan"
+  },
+  "Add Slot title": {
+    "prefix": "slot",
+    "body": ["- [ ] S$1"],
+    "description": "it adds new slot title"
+  },
+  "Add checkbox": {
+    "prefix": "checkbox",
+    "body": ["- [ ] $1"],
+    "description": "it adds new checkbox"
+  },
+  "Add goal": {
+    "prefix": "goal",
+    "body": ["- [ ] **$1**"],
+    "description": "it adds new goal"
+  },
+  "progress": {
+    "prefix": "progress",
+    "body": ["![](/_Resources/0$1.svg){: width=\"20%\"}"],
+    "description": "progress"
+  },
+  "forward": {
+    "prefix": "->",
+    "body": ["➡️$1"],
+    "description": "forward icon"
+  },
+  "bug": {
+    "prefix": "bug",
+    "body": ["️🐞$1"],
+    "description": "bug icon"
+  },
+  "ok": {
+    "prefix": "ok",
+    "body": ["️✅$1"],
+    "description": "ok icon"
+  },
+  "nok": {
+    "prefix": "nok",
+    "body": ["️❌$1"],
+    "description": "nok icon"
+  },
+  "yes": {
+    "prefix": "yes",
+    "body": ["️🎉$1"],
+    "description": "yes icon"
+  },
+  ":)": {
+    "prefix": ":)",
+    "body": ["️😊$1"],
+    "description": ":) icon"
+  },
+  "linkNTab": {
+    "prefix": "linkNewTab",
+    "body": ["<a href=\"$1\" target=\"_blank\">Video<a>"],
+    "description": "open link in new tag"
+  }
+}
