@@ -11,3 +11,4 @@
 1. Install **Markdown Preview Enhanced Extension** for VsCode
 1. Use snippets to simplify usage: see folder **.vscode**
 1. Open **Visual Studio Code** in the subfolder **./NoteBook**
+1. Enjoy 🎉
